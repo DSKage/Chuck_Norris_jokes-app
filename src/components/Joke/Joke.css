@@ -1,0 +1,8 @@
+.joke{
+    padding: 1rem;
+    border-bottom: 3px solid rgb(4, 82, 23);
+    border-left: 3px solid rgb(4, 82, 23);
+    margin: 0.2rem;
+    background: rgb(60, 236, 7);
+    text-align: left;
+}
