@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chuck_Norris_jokes-app/static/css/main.7f74f83c.css",
+    "main.js": "/Chuck_Norris_jokes-app/static/js/main.f0ad5e22.js",
+    "static/js/787.975c75e5.chunk.js": "/Chuck_Norris_jokes-app/static/js/787.975c75e5.chunk.js",
+    "index.html": "/Chuck_Norris_jokes-app/index.html",
+    "main.7f74f83c.css.map": "/Chuck_Norris_jokes-app/static/css/main.7f74f83c.css.map",
+    "main.f0ad5e22.js.map": "/Chuck_Norris_jokes-app/static/js/main.f0ad5e22.js.map",
+    "787.975c75e5.chunk.js.map": "/Chuck_Norris_jokes-app/static/js/787.975c75e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f74f83c.css",
+    "static/js/main.f0ad5e22.js"
+  ]
+}
